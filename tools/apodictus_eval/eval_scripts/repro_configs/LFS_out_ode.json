@@ -1,0 +1,90 @@
+{
+  "out_path": "../plots/raw_results/LFS_out_of_dict.tsv",
+  "annotations_path": "../../../data/dev3/annotated_usages/external/**/*usage_sample.tsv",
+  "mappings_path": "../../../data/dev3/alternative_inputs/alternative_dictionaries/dev3_unrecorded_dictionary_mappings_LFS.tsv",
+  "lemur_path": "../../../data/dev3/alternative_inputs/alternative_dictionaries/dev3_unrecorded_dictionary_LFS.tsv",
+  "ode_path": "../../../data/dev3/dictionaries/ode_dictionary.tsv",
+
+  "result_configurations": [
+    {
+      "name": "Finnish USD Weights",
+      "path": "../results/full_run_annotation_unrecorded_LFS/finnish_regular",
+      "normalize_probs": false,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": false
+    },
+    {
+      "name": "Own USD Weights",
+      "path": "../results/full_run_annotation_unrecorded_LFS/own_dev_regular",
+      "normalize_probs": false,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": false
+    },
+    {
+      "name": "Russian USD Weights",
+      "path": "../results/full_run_annotation_unrecorded_LFS/russian_regular",
+      "normalize_probs": false,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": false
+    },
+    {
+      "name": "euclidean",
+      "path": "../results/full_run_annotation_unrecorded_LFS/euclidean_0",
+      "normalize_probs": true,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": false
+    },
+    {
+      "name": "norm_l1",
+      "path": "../results/full_run_annotation_unrecorded_LFS/norm_l1_0",
+      "normalize_probs": true,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": false
+    },
+        {
+      "name": "Finnish USD Weights, no S1",
+      "path": "../results/full_run_annotation_unrecorded_LFS/finnish_regular",
+      "normalize_probs": false,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": true
+    },
+    {
+      "name": "Own USD Weights, no S1",
+      "path": "../results/full_run_annotation_unrecorded_LFS/own_dev_regular",
+      "normalize_probs": false,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": true
+    },
+    {
+      "name": "Russian USD Weights, no S1",
+      "path": "../results/full_run_annotation_unrecorded_LFS/russian_regular",
+      "normalize_probs": false,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": true
+    },
+    {
+      "name": "euclidean, no S1",
+      "path": "../results/full_run_annotation_unrecorded_LFS/euclidean_0",
+      "normalize_probs": true,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": true
+    },
+    {
+      "name": "norm_l1, no S1",
+      "path": "../results/full_run_annotation_unrecorded_LFS/norm_l1_0",
+      "normalize_probs": true,
+      "in_ode": false,
+      "mwe": null,
+      "no_s1": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+flow	1	verb:1	"[""(of a liquid, gas, or electricity) move steadily and continuously in a current or stream""]"	"[""from here the river flows north"", ""ventilation channels keep the air flowing"", ""a cross-current of electricity seemed to flow between them""]"	Lemur1000 ODENOAD Entries.xml
+flow	2	verb:1.1	"[""(of the sea or a tidal river) move towards the land; rise""]"	[]	Lemur1000 ODENOAD Entries.xml
+flow	3	verb:1.2	"[""circulate continuously within a particular system""]"	"[""an electric current flows through it""]"	Lemur1000 ODENOAD Entries.xml
+flow	4	verb:2	"[""go from one place to another in a steady stream, typically in large numbers""]"	"[""people flowed into the huge courtyard"", ""the firm is hoping the orders will keep flowing in""]"	Lemur1000 ODENOAD Entries.xml
+flow	5	verb:2.1	"[""proceed or be produced continuously and effortlessly""]"	"[""talk flowed freely around the table""]"	Lemur1000 ODENOAD Entries.xml
+flow	6	verb:2.2	"[""(of clothing or hair) hang loosely in an easy and graceful manner""]"	"[""her red hair flowed over her shoulders""]"	Lemur1000 ODENOAD Entries.xml
+flow	7	verb:2.3	"[""be available in copious quantities""]"	"[""their talk and laughter grew louder as the excellent brandy flowed""]"	Lemur1000 ODENOAD Entries.xml
+flow	8	verb:2.4	"[""be caused by""]"	"[""there are certain advantages that may flow from that decision""]"	Lemur1000 ODENOAD Entries.xml
+flow	9	verb:3	"[""(of a solid) undergo a permanent change of shape under stress, without melting""]"	[]	Lemur1000 ODENOAD Entries.xml
+flow	10	noun:1	"[""the action or fact of moving along in a steady, continuous stream""]"	"[""the flow of water into the pond""]"	Lemur1000 ODENOAD Entries.xml
+flow	11	noun:1.1	"[""the rate or speed at which something flows""]"	"[""under the ford the river backs up, giving a deep sluggish flow""]"	Lemur1000 ODENOAD Entries.xml
+flow	12	noun:1.2	"[""the rise of a tide or a river""]"	[]	Lemur1000 ODENOAD Entries.xml
+flow	13	noun:2	"[""a steady, continuous stream or supply of something""]"	"[""a constant flow of people"", ""the flow of words was interrupted by painful sobs"", ""she eased the car into the flow of traffic""]"	Lemur1000 ODENOAD Entries.xml
+flow	14	noun:2.1	"[""menstrual bleeding""]"	"[""she experienced symptoms including severe cramps and heavy flow""]"	Lemur1000 ODENOAD Entries.xml
+flow	15	noun:3	"[""a mental state in which a person is completely focused on and engaged in a task or activity""]"	"[""flow is that pleasant sense we feel when we're absorbed in activities we enjoy and time flies by"", ""you are stretched but not stressed, completely absorbed in the moment, and you are in flow"", ""a person enters a state of flow when highly engaged with a task, often losing track of time""]"	Lemur1000 ODENOAD Entries.xml
+flow	16	noun:4	"[""a watery swamp; a morass""]"	[]	Lemur1000 ODENOAD Entries.xml
+flow	17	noun:5	"[""the gradual permanent deformation of a solid under stress, without melting""]"	[]	Lemur1000 ODENOAD Entries.xml
+flow	18	noun	"[""The rhythm, tempo, and rhyme scheme used in any given rap. Also, generically: a rap verse.""]"	"[""See https://en.wikipedia.org/wiki/Rapping#Flow""]"	Lemur1000
+flow	-1		the movement of a something throughout a system (cash in the economy etc.)		
+	-2		Proper name		
+	-3		process or schema of a process (work flow)		
+	-4		The pacing and rhythm of something (e.g., a written work, an event, a conversation)		
+	-5		in a continuous way		
+	-6		To originate from (flow from)		

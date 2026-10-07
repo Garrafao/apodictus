@@ -1,0 +1,4 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+fastball	1	noun:1	"[""a baseball pitch thrown at or near a pitcher's maximum speed""]"	[]	Lemur1000 ODENOAD Entries.xml
+fastball	2	noun:1.1	"[""a variety of the game of softball, featuring fast underhand pitching""]"	[]	Lemur1000 ODENOAD Entries.xml
+fastball	3	noun	"[""A fast pitch or delivery - CRICKET""]"	"[""evidence for term used in cricket, which antedates current baseball sense 1a 1824  M. R. Mitford  Our Village  I.  160  Samuel Long is a slow bowler, George Simmons a fast one, and the change from Long's lobbing to Simmons's fast balls posed them completely.""]"	Lemur1000

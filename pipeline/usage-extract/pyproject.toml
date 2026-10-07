@@ -1,0 +1,24 @@
+[project]
+name = "usage_extract"
+version = "0.7.5"
+authors = [{ name = "Julian Kaufmann" }]
+dependencies = ["humanize~=4.12.3", "click~=8.2.1", "loguru~=0.7.3", "nltk~=3.9.1", "pandas~=2.3.0", "zstandard~=0.23.0"]
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.scripts]
+ue = "usage_extract.main:cli"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["usage_extract"]
+
+[tool.black]
+line-length = 120

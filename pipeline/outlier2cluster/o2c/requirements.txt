@@ -1,0 +1,10 @@
+pandas
+zstandard
+tqdm
+transformers
+accelerate
+seaborn
+scikit-learn
+requests
+beautifulsoup4==4.13.4
+lxml==6.0.0

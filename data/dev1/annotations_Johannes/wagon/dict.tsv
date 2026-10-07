@@ -1,0 +1,10 @@
+lemma	sense_id	gloss	example	source
+wagon	1	"[""a vehicle used for transporting goods or another specified purpose""]"	"[""a timber wagon"", ""a breakdown wagon""]"	ODENOAD_300.xml
+wagon	2	"[""a four-wheeled trailer for agricultural use""]"	"[""a hay wagon""]"	ODENOAD_300.xml
+wagon	3	"[""a railway freight vehicle; a truck""]"	"[""a milk wagon""]"	ODENOAD_300.xml
+wagon	4	"[""a light horse-drawn vehicle, especially a covered one used by early settlers in North America and elsewhere""]"	[]	ODENOAD_300.xml
+wagon	5	"[""a wheeled cart or hut used as a food stall""]"	"[""a chip wagon""]"	ODENOAD_300.xml
+wagon	6	"[""a vehicle like a caravan used by travelling people or circus performers""]"	[]	ODENOAD_300.xml
+wagon	7	"[""a car with a longer body than usual, incorporating a large carrying area behind the seats and having an extra door at the rear for easy loading; an estate car"", ""a car with a longer body than usual, incorporating a large carrying area behind the seats and having an extra door at the rear for easy loading""]"	[]	ODENOAD_300.xml
+wagon	8	"[""an unpleasant or disliked woman""]"	[]	ODENOAD_300.xml
+wagon	9	"[""Large buttocks.""]"		Lemur_300.csv

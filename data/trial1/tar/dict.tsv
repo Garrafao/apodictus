@@ -1,0 +1,7 @@
+lemma	sense_id	gloss	example	source
+tar	1	"[""a dark, thick flammable liquid distilled from wood or coal, consisting of a mixture of hydrocarbons, resins, alcohols, and other compounds. It is used in road-making and for coating and preserving timber"", ""a dark, thick, flammable liquid distilled from wood or coal, consisting of a mixture of hydrocarbons, resins, alcohols, and other compounds. It is used in roadmaking and for coating and preserving timber""]"	[]	ODENOAD_1000.xml
+tar	2	"[""a substance resembling tar, formed by burning tobacco or other material"", ""a resinous substance formed by burning tobacco or other material""]"	"[""cigarettes contain tar and carbon monoxide"", ""high-tar cigarettes""]"	ODENOAD_1000.xml
+tar	3	"[""cover (something) with tar""]"	"[""now that it is being tarred, the road will facilitate safer transport""]"	ODENOAD_1000.xml
+tar	4	"[""blame or damage the reputation of (someone)""]"	"[""he is trying to stop his company from being tarred by association""]"	ODENOAD_1000.xml
+tar	5	"[""a sailor""]"	[]	ODENOAD_1000.xml
+tar	6	"[""a long-necked stringed instrument used in many countries including Iran, Azerbaijan, Armenia, and Georgia""]"		Lemur_1000.csv

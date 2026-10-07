@@ -1,0 +1,5 @@
+lemma	sense_id	gloss	example	source	identifier
+cage	LMR2-71250	"[""attrib. uses denoting a sport (frequently football, or soccer) played in a LMR2-71249 cage""]"		Lemur_300.csv	id_0
+cage	LMR2-71249	"[""an enclosure which houses a five/six-a-side football pitch, basketball court, etc. (orig. UK slang/colloq.?). ""]"		Lemur_300.csv	id_1
+lobby	LMR2-71464	"[""Wikipedia, under 'Matchmaking (video games)': Lobbies are menu screens where players can inspect the upcoming game session, examine the results of the last, change their settings, and talk to each other.""]"		Lemur_300.csv	id_2
+tar	LMR2-57917	"[""also tār. a long-necked, waisted lute instrument, shared by many cultures and countries including Iran, Azerbaijan, Armenia, Georgia, and others near the Caucasus region""]"		Lemur_1000.csv	id_3

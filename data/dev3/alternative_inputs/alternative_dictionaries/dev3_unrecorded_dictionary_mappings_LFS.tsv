@@ -1,0 +1,202 @@
+lemma	old_sense_id	new_sense_id
+Netflix and chill	Netflix and chill_2	-2
+Occidentalism	Occidentalism_1	-1
+Titan	Titan_9	-9
+VOC	VOC_6	-6
+acker	acker_1	-1
+adoptive	adoptive_1	-1
+air tanker	air tanker_1	-1
+anchor	anchor_3	-3
+annunciate	annunciate_3	-3
+ballroom	ballroom_1	-1
+beast	beast_2	-2
+blanket-like	blanket-like_1	-1
+blue light special	blue light special_1	-1
+booby	booby_1	-1
+buckshee	buckshee_4	-4
+bump	bump_2	-2
+capture-the-flag	capture-the-flag_1	-1
+chairing	chairing_2	-2
+choral	choral_1	-1
+craven	craven_3	-3
+dog biscuit	dog biscuit_2	-2
+dog-hole	dog-hole_1	-1
+drinker	drinker_1	-1
+flow	flow_3	-3
+fried slice	fried slice_1	-1
+funk	funk_3	-3
+gold flake	gold flake_1	-1
+hale	hale_2	-2
+hammer	hammer_4	-4
+large	large_1	-1
+metrophobia	metrophobia_1	-1
+prefill	prefill_2	-2
+sideway	sideway_1	-1
+to thread the needle	to thread the needle_2	-2
+unmixing	unmixing_1	-1
+versatile	versatile_1	-1
+adoptive	m_en_gbus0011120.005	1
+adoptive	m_en_gbus0011120.007	2
+adoptive	LMR2-42417	3
+prefill	m_en_gbus1207913.004	1
+prefill	m_en_gbus1207913.008	2
+prefill	LMR2-78835	3
+kanafeh	LMR2-65777	1
+acker	LMR2-49106	1
+booby	m_en_gbus0113290.006	1
+booby	m_en_gbus0113290.010	2
+booby	m_en_gbus0113300.005	3
+booby	LMR2-53661	4
+hale	m_en_gbus0445160.005	1
+hale	m_en_gbus0445170.005	2
+hale	LMR2-49027	3
+to thread the needle	LMR2-81261	1
+air tanker	LMR2-61766	1
+drinker	m_en_gbus0298270.006	1
+drinker	m_en_gbus0298270.009	2
+drinker	m_en_gbus0298270.011	3
+drinker	m_en_gbus0298270.017	4
+drinker	LMR2-82760	5
+funk	m_en_gbus0396320.006	1
+funk	m_en_gbus0396320.009	2
+funk	m_en_gbus0396320.011	3
+funk	m_en_gbus0396310.006	4
+funk	m_en_gbus0396310.010	5
+funk	m_en_gbus0396310.014	6
+funk	m_en_gbus0396310.027	7
+funk	LMR2-45671	8
+drinking culture	LMR2-76433	1
+gold flake	LMR2-47292	1
+buckshee	m_en_gbus0131910.008	1
+buckshee	LMR2-64260	2
+fastball	m_en_gbus0352410.005	1
+fastball	m_en_gbus0352410.010	2
+fastball	LMR2-65520	3
+blanket-like	LMR2-67070	1
+beer feast	LMR2-76273	1
+ballroom	m_en_gbus0069610.009	1
+ballroom	m_en_gbus0069610.014	2
+ballroom	LMR2-48282	3
+VOC	m_en_gbus1133780.002	1
+VOC	LMR2-50622	2
+capture-the-flag	LMR2-56162	1
+chairing	LMR2-74873	1
+atom	m_en_gbus0055570.006	1
+atom	m_en_gbus0055570.009	2
+atom	m_en_gbus0055570.011	3
+atom	m_en_gbus0055570.014	4
+atom	LMR2-48150	5
+beast	m_en_gbus0081140.005	1
+beast	m_en_gbus0081140.008	2
+beast	m_en_gbus0081140.009	3
+beast	m_en_gbus0081140.010	4
+beast	m_en_gbus0081140.011	5
+beast	m_en_gbus0081140.012	6
+beast	m_en_gbus0081140.014	7
+beast	m_en_gbus0081140.042	8
+beast	m_en_gbus0081140.045	9
+beast	LMR2-64577	10
+Willmore conjecture	LMR2-60257	1
+directedness	LMR2-66184	1
+bump	m_en_gbus0134470.006	1
+bump	m_en_gbus0134470.009	2
+bump	m_en_gbus0134470.011	3
+bump	m_en_gbus0134470.012	4
+bump	m_en_gbus0134470.013	5
+bump	m_en_gbus0134470.015	6
+bump	m_en_gbus0134470.016	7
+bump	m_en_gbus0134470.017	8
+bump	m_en_gbus0134470.019	9
+bump	m_en_gbus0134470.063	10
+bump	m_en_gbus0134470.021	11
+bump	m_en_gbus0134470.025	12
+bump	m_en_gbus0134470.032	13
+bump	m_en_gbus0134470.034	14
+bump	m_en_gbus0134470.033	15
+bump	m_en_gbus0134470.036	16
+bump	m_en_gbus0134470.037	17
+bump	m_en_gbus0134470.039	18
+bump	m_en_gbus0134470.040	19
+bump	m_en_gbus0134470.065	20
+bump	LMR2-25261	21
+bump	LMR2-25264	22
+large	m_en_gbus0565860.006	1
+large	m_en_gbus0565860.010	2
+large	m_en_gbus0565860.011	3
+large	m_en_gbus0565860.013	4
+large	m_en_gbus0565860.017	5
+large	LMR2-11484	6
+superheroic	LMR2-81027	1
+gravity bong	LMR2-79454	1
+flow	m_en_gbus0373730.006	1
+flow	m_en_gbus0373730.012	2
+flow	m_en_gbus0373730.013	3
+flow	m_en_gbus0373730.015	4
+flow	m_en_gbus0373730.016	5
+flow	m_en_gbus0373730.017	6
+flow	m_en_gbus0373730.018	7
+flow	m_en_gbus0373730.019	8
+flow	m_en_gbus0373730.021	9
+flow	m_en_gbus0373730.024	10
+flow	m_en_gbus0373730.026	11
+flow	m_en_gbus0373730.027	12
+flow	m_en_gbus0373730.029	13
+flow	m_en_gbus0373730.032	14
+flow	m_en_gbus0373730.084	15
+flow	m_en_gbus0373730.034	16
+flow	m_en_gbus0373730.036	17
+flow	LMR2-66285	18
+hammer	m_en_gbus0447670.007	1
+hammer	m_en_gbus0447670.010	2
+hammer	m_en_gbus0447670.011	3
+hammer	m_en_gbus0447670.012	4
+hammer	m_en_gbus0447670.014	5
+hammer	m_en_gbus0447670.015	6
+hammer	m_en_gbus0447670.018	7
+hammer	m_en_gbus0447670.021	8
+hammer	m_en_gbus0447670.027	9
+hammer	m_en_gbus0447670.129	10
+hammer	m_en_gbus0447670.032	11
+hammer	m_en_gbus0447670.033	12
+hammer	m_en_gbus0447670.035	13
+hammer	m_en_gbus0447670.037	14
+hammer	LMR2-65107	15
+blue light special	LMR2-696	1
+Occidentalism	LMR2-73446	1
+Titan	m_en_gbus1056870.007	1
+Titan	m_en_gbus1056870.014	2
+Titan	LMR2-44981	3
+versatile	m_en_gbus1125710.006	1
+versatile	m_en_gbus1125710.008	2
+versatile	m_en_gbus1125710.010	3
+versatile	m_en_gbus1125710.012	4
+versatile	LMR2-13442	5
+speciality rule	LMR2-15173	1
+Netflix and chill	LMR2-33387	1
+craven	m_en_gbus0231060.005	1
+craven	m_en_gbus0231060.008	2
+craven	LMR2-75467	3
+dog biscuit	m_en_gbus0287870.004	1
+dog biscuit	LMR2-61201	2
+dog-hole	LMR2-50373	1
+empanadilla	LMR2-63695	1
+annunciate	m_en_gbus0035380.005	1
+annunciate	m_en_gbus0035380.015	2
+annunciate	LMR2-58873	3
+metrophobia	LMR2-66010	1
+unmixing	LMR2-10869	1
+anchor	m_en_gbus0031590.006	1
+anchor	m_en_gbus0031590.009	2
+anchor	m_en_gbus0031590.010	3
+anchor	m_en_gbus0031590.014	4
+anchor	m_en_gbus0031590.017	5
+anchor	m_en_gbus0031590.020	6
+anchor	m_en_gbus0031590.026	7
+anchor	m_en_gbus0031590.027	8
+anchor	m_en_gbus0031590.029	9
+anchor	LMR2-54840	10
+choral	m_en_gbus0180150.005	1
+choral	m_en_gbus0180150.007	2
+choral	LMR2-76326	3
+sideway	LMR2-35196	1
+fried slice	LMR2-70721	1

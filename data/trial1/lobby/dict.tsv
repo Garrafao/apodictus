@@ -1,0 +1,9 @@
+lemma	sense_id	gloss	example	source
+lobby	1	"[""a room providing a space out of which one or more other rooms or corridors lead, typically one near the entrance of a public building""]"	"[""they went into the hotel lobby""]"	ODENOAD_300.xml
+lobby	2	"[""(in the UK) any of several large halls in the Houses of Parliament in which MPs may meet members of the public""]"	[]	ODENOAD_300.xml
+lobby	3	"[""(in the UK) each of two corridors in the Houses of Parliament to which MPs retire to vote""]"	[]	ODENOAD_300.xml
+lobby	4	"[""(in the UK) lobby correspondents collectively""]"	[]	ODENOAD_300.xml
+lobby	5	"[""a group of people seeking to influence legislators on a particular issue"", ""a group of people seeking to influence politicians or public officials on a particular issue""]"	"[""contact an anti-traffic lobby for advice and information"", ""lobby groups"", ""lobby groups""]"	ODENOAD_300.xml
+lobby	6	"[""an organized attempt by members of the public to influence legislators"", ""an organized attempt by members of the public to influence politicians or public officials""]"	"[""a recent lobby of Parliament by pensioners"", ""a recent lobby of Congress by retirees""]"	ODENOAD_300.xml
+lobby	7	"[""seek to influence (a legislator) on an issue"", ""seek to influence (a politician or public official) on an issue""]"	"[""they insist on their right to lobby Congress"", ""the organization was formed to lobby for student concerns"", ""there was intense lobbying of UN delegates by US officials"", ""it is recommending that booksellers lobby their representatives"", ""a group lobbying for better rail services""]"	ODENOAD_300.xml
+lobby	8	"[""(in video games) menu screen""]"		Lemur_300.csv

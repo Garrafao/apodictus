@@ -1,0 +1,7 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+drinker	1	noun:1	"[""a person who drinks a particular drink""]"	"[""coffee drinkers""]"	Lemur1000 ODENOAD Entries.xml
+drinker	2	noun:1.1	"[""a person who drinks alcohol, especially to excess""]"	"[""not being much of a drinker, she only kept a small supply of alcohol"", ""a heavy drinker""]"	Lemur1000 ODENOAD Entries.xml
+drinker	3	noun:2	"[""a large brownish European moth, the caterpillar of which bears irritant hairs and is noted for drinking dew""]"	[]	Lemur1000 ODENOAD Entries.xml
+drinker	4	noun:3	"[""a container from which an animal can drink""]"	[]	Lemur1000 ODENOAD Entries.xml
+drinker	5	suffix	"[""As second element in noun phrases such as tea drinker, beer drinker.""]"	"["" !image-2024-12-24-12-41-22-708.png!""]"	Lemur1000
+drinker	-1		Someone who drinks, a fussy drinker		

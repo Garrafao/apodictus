@@ -1,0 +1,7 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+prefill	1	verb:1	"[""add information to (a form or other document) in advance""]"	"[""the system prefills claims forms with the information from the scene of the accident"", ""similar technology will be used to prefill annual tax returns for contractors""]"	Lemur1000 ODENOAD Entries.xml
+prefill	2	verb:2	"[""fill (a container) at the site of production or before sale""]"	"[""the vaping products were prefilled with liquid"", ""prefilled syringes""]"	Lemur1000 ODENOAD Entries.xml
+prefill	3	noun	"[""content in a form, search bar, app etc which has been automatically inserted or added in advance of the user's interaction with it also as attrib: prefill value, prefill function, prefill option, prefill message""]"	"[""The verb seems pretty obviously transparent (\""the value has been pre-filled\"" \""prefilling the field with a particular search term\"" etc,) but this functionality strikes me as integral to a lot of coding, apps, computing technology etc and the noun use as simply \""a prefill\"" is growing more prevalent, flexible, and starting to be used in a variety of ways and contexts""]"	Lemur1000
+prefill	-1		Fill (a container) before another step in a process		
+prefill	-2		Fill positions before accepting more applications		
+prefill	-3		Brake Pad Prefill, a system used to reduce response times in braking systems by detecting when a user may be about to press the brakes		

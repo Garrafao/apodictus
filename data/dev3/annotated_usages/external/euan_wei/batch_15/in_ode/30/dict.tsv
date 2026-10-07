@@ -1,0 +1,6 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+atom	1	noun:1	"[""the smallest particle of a chemical element that can exist""]"	[]	Lemur1000 ODENOAD Entries.xml
+atom	2	noun:1.1	"[""atomic particles as a source of nuclear energy""]"	"[""the power of the atom""]"	Lemur1000 ODENOAD Entries.xml
+atom	3	noun:1.2	"[""an extremely small amount of something""]"	"[""I shall not have one atom of strength left"", ""there wasn't an atom of tenderness in his voice""]"	Lemur1000 ODENOAD Entries.xml
+atom	4	noun:2	"[""a level of amateur sport, typically involving children aged between nine and eleven""]"	"[""eight atom hockey teams""]"	Lemur1000 ODENOAD Entries.xml
+atom	5	noun	"[""Isolated unit of any system; social atom. (At least 3 on EVQ.) (Close to OED's sb but with indivisibility not closeness as the essential characteristic.)""]"	"[""""]"	Lemur1000

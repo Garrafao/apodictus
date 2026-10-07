@@ -1,0 +1,3 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+capture-the-flag	1	noun	"[""A game in which two teams each hide a colored cloth, representing the team's flag, and then try to find the other team's flag and return with it to their home base. (ODO def.)""]"	"[""A very well known and widely played children's game in the US. Defined in ODO, M-W, and on dictionary.com. 100+ on NEX from 1979 100+ GBUS from 1979 100+ on NPA from October 3, 1927 (if not older) Earlier on NPA in the sense of 'win the pennant' (see PENNANT, n./1 sense 1c)""]"	Lemur1000
+capture-the-flag	-1		"In computer security, an exercise in which participants attempt to find text strings, called ""flags"", which are secretly hidden in purposefully vulnerable programs or websites. "		

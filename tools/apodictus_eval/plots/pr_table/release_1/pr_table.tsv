@@ -1,0 +1,49 @@
+lemur_id	lemma	in_ode	lemma_usages_s1	lemma_usages_s3	lemur_sense_count_s1	lemur_sense_count_s3	predicted_lemur_count_s3	correct_predictions_s3	precision	recall
+LMR2-42417	adoptive	True	100	50	7	7	1	1	1.0	0.14285714285714285
+LMR2-78835	prefill	True	83	65	5	5	19	2	0.10526315789473684	0.4
+LMR2-65777	kanafeh	False	30	30	30	30	25	25	1.0	0.8333333333333334
+LMR2-49106	acker	False	30	30	0	0	1	0	0.0	
+LMR2-53661	booby	True	100	69	47	47	3	3	1.0	0.06382978723404255
+LMR2-49027	hale	True	100	100	0	0	0	0		
+LMR2-81261	to thread the needle	False	30	30	14	14	7	3	0.42857142857142855	0.21428571428571427
+LMR2-61766	air tanker	False	30	30	27	27	30	27	0.9	1.0
+LMR2-82760	drinker	True	100	44	0	0	0	0		
+LMR2-45671	funk	True	100	19	0	0	0	0		
+LMR2-76433	drinking culture	False	30	30	30	30	24	24	1.0	0.8
+LMR2-47292	gold flake	False	30	30	6	6	10	0	0.0	0.0
+LMR2-64260	buckshee	True	41	41	0	0	0	0		
+LMR2-65520	fastball	True	100	99	0	0	65	0	0.0	
+LMR2-67070	blanket-like	False	30	30	28	28	26	26	1.0	0.9285714285714286
+LMR2-76273	beer feast	False	2	2	0	0	0	0		
+LMR2-48282	ballroom	True	100	82	1	1	3	0	0.0	0.0
+LMR2-50622	VOC	True	100	98	2	2	1	0	0.0	0.0
+LMR2-56162	capture-the-flag	False	30	30	19	19	13	11	0.8461538461538461	0.5789473684210527
+LMR2-74873	chairing	False	30	30	0	0	3	0	0.0	
+LMR2-48150	atom	True	100	20	0	0	0	0		
+LMR2-64577	beast	True	100	16	1	0	0	0		
+LMR2-60257	Willmore conjecture	False	1	1	1	1	1	1	1.0	1.0
+LMR2-66184	directedness	False	30	30	30	30	24	24	1.0	0.8
+LMR2-25261	bump	True	100	0	0	0	0	0		
+LMR2-25264	bump	True	100	0	0	0	0	0		
+LMR2-11484	large	True	100	69	0	0	0	0		
+LMR2-81027	superheroic	False	30	30	29	29	1	1	1.0	0.034482758620689655
+LMR2-79454	gravity bong	False	30	30	30	30	0	0		0.0
+LMR2-66285	flow	True	100	3	0	0	0	0		
+LMR2-65107	hammer	True	100	13	0	0	0	0		
+LMR2-696	blue light special	False	30	30	6	6	12	2	0.16666666666666666	0.3333333333333333
+LMR2-73446	Occidentalism	False	27	27	18	18	27	18	0.6666666666666666	1.0
+LMR2-44981	Titan	True	100	99	0	0	1	0	0.0	
+LMR2-13442	versatile	True	99	51	1	0	0	0		
+LMR2-15173	speciality rule	False	2	2	2	2	2	2	1.0	1.0
+LMR2-33387	Netflix and chill	False	30	30	5	5	0	0		0.0
+LMR2-75467	craven	True	100	91	4	1	1	1	1.0	1.0
+LMR2-61201	dog biscuit	True	100	71	2	2	1	0	0.0	0.0
+LMR2-50373	dog-hole	False	8	8	0	0	0	0		
+LMR2-63695	empanadilla	False	17	17	17	17	12	12	1.0	0.7058823529411765
+LMR2-58873	annunciate	True	54	18	0	0	0	0		
+LMR2-66010	metrophobia	False	2	2	0	0	1	0	0.0	
+LMR2-10869	unmixing	False	30	30	5	5	27	5	0.18518518518518517	1.0
+LMR2-54840	anchor	True	100	17	0	0	0	0		
+LMR2-76326	choral	True	100	51	0	0	0	0		
+LMR2-35196	sideway	False	30	30	0	0	0	0		
+LMR2-70721	fried slice	False	30	30	8	8	27	8	0.2962962962962963	1.0

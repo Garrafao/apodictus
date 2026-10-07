@@ -1,0 +1,4 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+unmixing	1	adjective	"[""Non-mixing. Not mixing. Differs from existing OED sense, which refers to the process of mixed things becoming unmixed. Now rare? obs? Antedates existing (science) sense.""]"	"[""Various hits of EEBO and ECCO and some later on GBUS. See screenshot for earliest (1571).""]"	Lemur1000
+unmixing	-1		In independent component analysis: The unmixing matrix that maximizes equation is known as the MLE of the optimal unmixing matrix.
+unmixing	-2		Spectral unmixing is a technique used to separate and quantify the individual components (endmembers) that contribute to a mixed spectrum.

@@ -1,0 +1,5 @@
+lemma	sense_id	sense_hierarchy	definitions	examples	source
+ballroom	1	noun:1	"[""a large room for formal dancing""]"	[]	Lemur1000 ODENOAD Entries.xml
+ballroom	2	noun:2	"[""ballroom dancing""]"	"[""the number of people learning ballroom has doubled in the last two years""]"	Lemur1000 ODENOAD Entries.xml
+ballroom	3	noun	"[""a genre of disco/house music, originating from the records played by DJs at drag or vogue balls. freq attrib. (-track, -song). cf. LMR2-9366 drag ball, LMR2-48281 ballroom""]"	"[""http://daily.redbullmusicacademy.com/2012/02/vogue-ballroom-vivian-host [2012 (title of compilation) Voguing & The House Ballroom Scene Of New York City 1976-96. (for more detail, see https://www.discogs.com/Various-Voguing-The-House-Ballroom-Scene-Of-New-York-City-1976-96/master/410169)]""]"	Lemur1000
+ballroom	-1		Aesthetically related to ballroom architecture and/or dancing, for example a ballroom dress.		
